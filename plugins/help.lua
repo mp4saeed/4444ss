@@ -63,7 +63,7 @@ function run(msg, matches)
     
 〰〰〰〰〰〰〰
 
-✨سایت اصلی: Tarfand.Ir ✨
+✨آیدی اصلی: https://t.me/saee2d8 ✨
 </i>]]
 end
 
