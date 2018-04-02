@@ -246,7 +246,7 @@ function create_config( )
     "note"
     
     },
-    sudo_users = {537185128,453401907,tonumber(our_id)},--Sudo users
+    sudo_users = {537185128,271082431,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
